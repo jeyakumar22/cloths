@@ -1,0 +1,86 @@
+*{
+    font-family: 'Times New Roman', Times, serif !important;
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+
+#btn{
+    background-color:red;
+    color:rgb(255, 255, 255);
+}#jk{
+    font-size: 30px;
+    text-decoration: none;
+    color: aliceblue;
+}
+.jkimg{
+    size: 50%;
+    background-size: cover;
+}
+div.jkmakecenter{
+    padding-right: 100px;
+}                                                                                                      
+
+div.sizeedit p.edit{
+    font-size:10px;
+}
+div.setcolor p,a{
+    color: white;
+}
+div.setstyle div{
+    font-size: 20px;
+    color: black;
+    
+}
+
+p.edit{
+    font-weight: bolder;
+    
+    color: black;
+    font-size: 25px;
+}
+
+footer div.setanchercolor li a{
+    color: white;
+    text-align: start;
+    display: inline-block;
+    text-decoration: none;
+    width: 200px;
+    text-transform: capitalize;
+    font-size: 20px;
+   
+}
+footer div.setanchercolor{
+    margin-top: 20px;
+    padding-top: 20px;
+}
+footer  p{
+    color: rgb(255, 255, 255);
+    display: inline-block;
+    width: 80%px;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;
+   
+}
+div.makecircle img{
+    clip-path: circle();
+}
+ul {
+    list-style: none;
+  }
+  
+  footer div.setanchercolor{
+   
+    display: flex;
+    flex-direction: row;
+    
+  }
+  div.toeditcol{
+    height: 390px;
+    background-color: black;
+    color: white;
+    padding-right: 40px;
+    
+  }
